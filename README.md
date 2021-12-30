@@ -1,2 +1,1 @@
-# basic-neuron-network
-# basic-neuron-network
+# Very basic Neural network made from sratch
